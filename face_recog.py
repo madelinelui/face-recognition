@@ -30,4 +30,4 @@ print("Found {0} faces!".format(len(faces)))
 cv2.imshow("Faces found", image)
 cv2.waitKey(0)
 
-#python face_recog.py andre-test.png haarcascade_frontalface_default.xml
+#python face_recog.py __.png haarcascade_frontalface_default.xml
